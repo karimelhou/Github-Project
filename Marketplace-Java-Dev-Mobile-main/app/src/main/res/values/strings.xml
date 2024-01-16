@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Marketplace</string>
+
+    <string name="co_connexion">Connexion</string>
+
+    <string name="insc_client">Inscription client</string>
+    <string name="insc_username">Username</string>
+    <string name="insc_password">Password</string>
+    <string name="insc_email">Email</string>
+    <string name="insc_rib">Rib</string>
+
+    <string name="insc_postalAddress">Postal address</string>
+    <string name="insc_manRB">Man</string>
+    <string name="insc_womanRB">Woman</string>
+    <string name="insc_surname">Surname</string>
+    <string name="insc_name">Name</string>
+    <string name="insc_inscrireBT">S\'inscrire</string>
+    <string name="insc_fournisseur">Fournisseur</string>
+
+
+    <string name="inscfo_title">Inscription fournisseur</string>
+    <string name="inscfo_username">Username</string>
+    <string name="inscfo_password">Password</string>
+    <string name="inscfo_email">Email</string>
+    <string name="inscfo_postalAddress">Postal address</string>
+    <string name="inscfo_rib">Rib</string>
+    <string name="inscfo_raisonSociale">Raison sociale</string>
+    <string name="inscfo_buttonSubscribe">S\'inscrire</string>
+
+
+    <string name="home">Articles</string>
+    <string name="basket">Commandes</string>
+    <string name="account">Compte</string>
+
+    <string name="home_fo">Accueil</string>
+    <string name="add">Ajout</string>
+    <string name="account_fo">Compte</string>
+
+    <string name="rs_util_fo">Raison sociale</string>
+    <string name="rib_util_fo">Rib</string>
+    <string name="addr_util_fo">Adresse Postale</string>
+    <string name="pass_util_fo">Mot de passe</string>
+    <string name="mail_util_fo">Email</string>
+    <string name="modif_util_fo">Modifier</string>
+    <string name="lbl_modif_utilFo">Mettre à jour le profil</string>
+    <string name="ajout_article">Ajoutez un article</string>
+    <string name="EtAddFo">Nom Article</string>
+    <string name="addArticleUtilFo">Ajout</string>
+    <string name="prix_util_fo_art">Prix</string>
+    <string name="qte_utilfo_art">Qte</string>
+    <string name="desc_utilfo_art">Description</string>
+</resources>
